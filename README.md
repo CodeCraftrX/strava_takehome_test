@@ -22,8 +22,10 @@
            Enter endpoint:
              (Give the api endpoint of the live api server)
 
-  -- The results are printed as per below
-        ayanamala1@Abheeshts-MacBook-Air Strava_Take_Home % java MainApplication 
+  -- The results are printed as per below:
+  
+              ayanamala1@Abheeshts-MacBook-Air Strava_Take_Home % javac MainApplication.java
+              ayanamala1@Abheeshts-MacBook-Air Strava_Take_Home % java MainApplication 
               Enter mode (file/api):
               file
               Enter filename (e.g., example-in.json): 
