@@ -2,26 +2,26 @@
 
 ---
 #Programming Language 
- -Java 8 or higher is required
- -Need an Internet connection if running the api to fetch the data
+ * Java 8 or higher is required
+ * Need an Internet connection if running the api to fetch the data
 
  ---
-
- ----
  To fetch the output, open terminal in the project path, compile and run the project using below commands:
 
- -- javac MainApplication.java
- -- java MainApplication
+ * javac MainApplication.java
+ * java MainApplication
+ ---
 
- --Once the app is running , it asks for two options 
+ Once the app is running , it asks for two options <br/>
+ 
        Enter mode (file/api):
          1.file
-          Enter filename (e.g., example-in.json): 
+           Enter filename (e.g., example-in.json): 
            (Give the filename  (Assumed the file is in the same folder as the mainapplication file))
-         2. api
+         2.api
            Enter endpoint:
              (Give the api endpoint of the live api server)
-
+---
   -- The results are printed as per below:
   
               ayanamala1@Abheeshts-MacBook-Air Strava_Take_Home % javac MainApplication.java
